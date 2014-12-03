@@ -1,7 +1,7 @@
 ExploratoryDataAnalysis
 =======================
 Introduction
-
+============
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
@@ -20,7 +20,7 @@ Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It co
 Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 Loading the data
-
+================
 When loading the dataset into R, please consider the following:
 
 The dataset has 2,075,259 rows and 9 columns. First calculate a rough estimate of how much memory the dataset will require in memory before reading into R. Make sure your computer has enough memory (most modern computers should be fine).
@@ -32,7 +32,7 @@ You may find it useful to convert the Date and Time variables to Date/Time class
 Note that in this dataset missing values are coded as ?.
 
 Making Plots
-
+============
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
@@ -51,5 +51,4 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-Plot 1
 
